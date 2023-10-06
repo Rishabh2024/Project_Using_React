@@ -1,0 +1,23 @@
+
+/* .VideoPlayer {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  } */
+.VideoPlayer {
+   
+  position: relative;
+  height: 450px;
+  width: 700px;
+  border: 2px solid rgb(15, 14, 14);
+  left: 260px;
+  bottom: 250px;
+  border-radius: 10px;
+  
+}

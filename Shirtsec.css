@@ -1,0 +1,85 @@
+.main
+{
+    display: flex;
+    /* background-color: burlywood; */
+}
+
+ .box
+ {
+    height: 200px;
+    width: 200px;
+    margin-top:20px;
+    margin-right: 10px;
+    border : 2px solid rgb(252, 252, 252);
+    border-radius: 10px;
+ }
+
+ .shirtsec
+ {
+  height: 290px;
+  width: 210px;
+  font-size: 10px;
+  padding-top: 20px;
+  padding-left: 10px;
+  margin-left: 70px;
+  color: white;
+  background-image: url('../public/shirt.png');
+  background-repeat: no-repeat;
+ }
+
+
+ .searchsrc
+ {
+  height: 50px;
+  width: 900px;
+  text-align: center;
+  color: blue;
+  background-color: white;
+
+ }
+
+ .textsearch
+ {
+    position: relative;
+    height: 20px;
+    width: 550px;
+    margin-top: 10px;
+    margin-left: 10px;
+ }
+
+ .chatsec
+ {
+    position: relative;
+    left: 70px;
+    height: 250px;
+    width: 200px;
+    background-color: white;
+ }
+ 
+ .chatsec h3{
+    font-size: 13px;
+
+ }
+
+ .chatsec span
+ {
+    margin-left: 25px;
+    font-size: 10px;
+ }
+
+ .chatsec h2
+ {
+    font-size: 12px;
+    padding-bottom: 0px;
+ }
+
+ /* .camera
+ {
+    height: 200px;
+    width: 220px;
+   background-color: white;
+   border-radius: 10px;
+    position: relative;
+    top: 340px;
+    right:  1060px;
+ } */

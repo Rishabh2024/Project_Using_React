@@ -1,0 +1,25 @@
+.header {
+  height: 50px;
+  background-color: rgb(49, 49, 53);
+  text-align: end;
+  padding-top: 20px;
+}
+
+.textarea {
+  margin-right: 500px;
+  height: 30px;
+  width: 250px;
+  border-radius: 25px;
+  border: 1px solid rgb(34, 34, 36);
+  background-color: rgb(40, 40, 44);
+}
+
+.header a {
+  margin-right: 60px;
+  text-decoration: none;
+  color: rgb(43, 36, 36);
+}
+.btn {
+  background-color: rgb(233, 223, 223);
+  border-radius: 10px;
+}
